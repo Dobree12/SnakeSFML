@@ -1,0 +1,6 @@
+﻿  sursa.cpp
+C:\Users\dobre\Desktop\Visual Studio Projects 2023-2024\snakeSFML\sursa.cpp(148,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\dobre\Desktop\Visual Studio Projects 2023-2024\snakeSFML\sursa.cpp(148,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  snakeSFML.vcxproj -> C:\Users\dobre\Desktop\Visual Studio Projects 2023-2024\snakeSFML\x64\Debug\snakeSFML.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
